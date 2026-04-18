@@ -78,5 +78,5 @@ _Focus: Bringing the UI to life and connecting the dots._
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/your-username/mern-foundation-exercises.git](https://github.com/your-username/mern-foundation-exercises.git)
+   git clone [https://github.com/hariswaran-v/mern-foundation-exercises.git](https://github.com/hariswaran-v/mern-foundation-exercises.git)
    ```
